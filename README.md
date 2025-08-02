@@ -1,8 +1,7 @@
-# Portfolio
-# Portfolio
 
 Bu repository mening SQL bo‘yicha tayyorlagan ishlanmalarimni o‘z ichiga oladi.  
 Har bir fayl alohida mavzu bo‘yicha tushuntirish va amaliy misollarni o‘z ichiga oladi.
+Bu mashqlar dvdrental database boyiccha qilingan
 
 ## PDF fayllar
 - [SQL Duplicate Calculation](slq_duplicate_calculation.pdf)
